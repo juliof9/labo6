@@ -1,5 +1,5 @@
 
-function sumar(arr) {
+function suma(arr) {
     console.log(arr);
     if(arr.length % 2 == 0) {
         for(let i=0; i<arr.length/2; i++) {

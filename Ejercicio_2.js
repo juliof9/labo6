@@ -1,5 +1,5 @@
 
-function sumAverage(arr) {
+function sum(arr) {
     total = 0;
     if(arr.length > 0) {
         arr.forEach(number => {

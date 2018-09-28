@@ -1,5 +1,5 @@
 
-function encriptar(cad) {
+function encripta(cad) {
     arr = cad.split('')
     encriptada = [];
     arr.forEach(element => {

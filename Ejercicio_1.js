@@ -1,5 +1,5 @@
 
-function occurences(arr, num) {
+function occurence(arr, num) {
     total = 0;
     arr.forEach(element => {
         if(element === num)

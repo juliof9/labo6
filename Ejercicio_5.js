@@ -1,5 +1,5 @@
 
-function occurences(arr, type) {
+function ocurrencias(arr, type) {
     typeArr = [];
     arr.forEach(element => {
         if(typeof element === type) {
