@@ -7,8 +7,8 @@ function adivina(num) {
     }
     console.log(arr);
     if(arr.includes(num)) {
-        console.log("Usted ha ganado!");
+        console.log("Ganaste!");
         return;
     }
-    console.log("Usted ha perdido!");
+    console.log("Perdiste");
 }
